@@ -1,4 +1,4 @@
-# 🪐Hubble-Parameter-Constrain ![Static Badge](https://img.shields.io/badge/UAB-%23009900?style=for-the-badge)
+# 🪐Hubble-Parameter-Constraint ![Static Badge](https://img.shields.io/badge/UAB-%23009900?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/Python-white?logo=Python)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=Jupyter)
